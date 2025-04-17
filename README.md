@@ -78,7 +78,7 @@ Skill Barter addresses these gaps by creating a specialized platform explicitly 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/p2p-education-barter.git
+https://github.com/Vipulgupta23/Innov8ors_AMUHACKS4.0.git
 cd p2p-education-barter
 ```
 
