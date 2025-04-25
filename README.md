@@ -25,7 +25,7 @@ Current solutions for skill development have significant limitations:
   - No recognition of students' own teachable skills
 
 - **Tutoring Services**:
-  - Typically expensive
+  - Typically very expensive
   - Limited by geographical constraints
   - Operate on financial rather than skill exchange models
 
